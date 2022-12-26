@@ -1,0 +1,21 @@
+---
+title: "Submit your paper"
+format: html
+editor: visual
+---
+
+## Why?
+
+You already published it, you already have a DOI, why submit here? Just to show up!
+
+## Acceptance rates
+
+We won't accept just anything. We want to highlight papers that are open and reproducible, and that think in un-conventinal ways to publish. Dynamic papers with updated versions, is something we are interested in.
+
+## How?
+
+As easy to fill in this isue with the minimal information.
+
+## Is there are peer review process?
+
+Of course not. Peer review is out of control. We use plaudit to allow the community to judge how trustable is the paper and highlight the most interesting ones, BUT you are the only one who can assess if a paper is valid.

@@ -1,0 +1,24 @@
+---
+title: "Punk-Editors Journal" 
+listing:
+  type: table
+  contents: papers
+  sort: "date desc"
+  categories: true
+  feed: true
+  fields: [author, title, date]
+  field-links: [author, title, date]
+  page-size: 20
+  id: sample-listings
+format: html
+editor: visual
+editor_options:
+  chunk_output_type: console
+---
+
+## Last papers "published"
+
+::: {#sample-listings}
+:::
+
+**Last update:** `r Sys.Date()`

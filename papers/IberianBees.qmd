@@ -1,0 +1,23 @@
+---
+title: "Status and trends of Iberian bees"
+author: "I. Bartomeus et al."
+description: "Dynamic analysis of the status and trends of Iberian bees."
+date: "2023-01-01"
+categories: "Ecology"
+format: html
+editor: visual
+---
+
+## Description
+
+Dynamic analysis of the status and trends of Iberian bees.
+
+## Published
+
+Dynamic document: URL
+
+Code: URL
+
+Data: URL
+
+DOI: URL

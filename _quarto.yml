@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Punk-Editors Journal"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: discover.qmd
+        text: Discover
+      - href: submit.qmd
+        text: Submit your paper
+      - href: faq.qmd
+        text: FAQ
+    background: primary
+    logo: "images/PunkEditorsLogo.png"
+    pinned: false
+    search: true
+    tools:
+      - icon: github
+        href: https://github.com/PunkEditors/PunkJournal
+        text: GitHub
+      - icon: twitter
+        href: https://twitter.com/intent/tweet?related=github&text=I%20can%20not%20belive%20there%20is%20a%20Punk%20journal&url=https%3A%2F%2FPunkEditors.github.io%2FPunkJournal&hashtags=PunkEditors
+    
+
+format:
+  html:
+    theme: quartz #change it here if you don't like the electric pink https://quarto.org/docs/output-formats/html-themes.html
+    #css: styles.css
+    toc: true
+    

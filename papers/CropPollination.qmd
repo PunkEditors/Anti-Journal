@@ -1,0 +1,27 @@
+---
+title: "Pollinator contribution to crop yield"
+author: "James Reilly, Alfonso Allen-Perkins, Rachael Winfree, Ignasi Bartomeus"
+description: "Dynamic analysis of the worldwide contribution to crop yield of wild and managed pollinators using the open database CropPol"
+date: "2023-01-01"
+categories: "Ecology"
+format: html
+editor: visual
+---
+
+## Description:
+
+Dynamic analysis of the worldwide contribution to crop yield of wild and managed pollinators using the open database CropPol
+
+## Real Peer review stats:
+
+To be implemented.
+
+## Published at:
+
+Dynamic document: https://ibartomeus.github.io/CropPollinationModels/
+
+Code: URL https://github.com/ibartomeus/CropPollinationModels
+
+Data: https://github.com/ibartomeus/OBservData
+
+DOI: https://zenodo.org/badge/latestdoi/580023709

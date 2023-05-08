@@ -1,0 +1,27 @@
+---
+title: "EU pollination metaweb"
+author: "Lanuza, Montes, Bartomeus et al."
+description: "Dynamic updates of the European metaweb of all plants and its polliantors"
+date: "2023-01-01"
+categories: "Ecology"
+format: html
+editor: visual
+---
+
+## Description:
+
+Dynamic updates of the European metaweb of all plants and its polliantors
+
+## Real Peer review stats:
+
+To be implemented.
+
+## Published at:
+
+Dynamic document: URL TBA
+
+Code: URL TBA
+
+Data: URL TBA
+
+DOI: URL TBA

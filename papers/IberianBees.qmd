@@ -8,16 +8,20 @@ format: html
 editor: visual
 ---
 
-## Description
+## Description:
 
 Dynamic analysis of the status and trends of Iberian bees.
 
-## Published
+## Real Peer review stats:
 
-Dynamic document: URL
+To be implemented.
 
-Code: URL
+## Published at:
 
-Data: URL
+Dynamic document: URL TBA
 
-DOI: URL
+Code: URL TBA
+
+Data: URL TBA
+
+DOI: URL TBA

@@ -14,8 +14,8 @@ We won't accept just anything. We want to highlight papers that are open and rep
 
 ## How?
 
-As easy to fill in this isue with the minimal information.
+As easy to fill in this issue \[Link TBA\] with the minimal information.
 
 ## Is there are peer review process?
 
-Of course not. Peer review is out of control. We use plaudit to allow the community to judge how trustable is the paper and highlight the most interesting ones, BUT you are the only one who can assess if a paper is valid.
+Of course not. Peer review is out of control. We \[aim to\] use plaud.it to allow the community to judge how trustable is the paper and highlight the most interesting ones, BUT you are the only one who can assess if a paper is valid.

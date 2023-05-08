@@ -6,4 +6,6 @@ editor: visual
 
 ## What should I read?
 
-...
+Ideally this will use [Real Peer Review](https://github.com/PunkEditors/RealPeerReview/tree/main) to allow you to query and discover top rated papers on your preferred topics.
+
+Curating and evaluating is the real botelneck in scientific publication.

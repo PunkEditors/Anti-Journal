@@ -16,6 +16,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+This is a [PunkEditors](https://github.com/PunkEditors) initiative to facilitate a DIY publishing platform.
+
 ## Last papers "published"
 
 ::: {#sample-listings}

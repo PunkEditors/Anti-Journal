@@ -6,15 +6,15 @@ editor: visual
 
 ## Why?
 
-You already published it, you already have a DOI, why submit here? Just to show up!
+You already upload it online, you already have a DOI via Zenodo, why submit here? Just to show up!
 
 ## Acceptance rates
 
-We won't accept just anything. We want to highlight papers that are open and reproducible, and that think in un-conventinal ways to publish. Dynamic papers with updated versions, is something we are interested in.
+We won't accept just anything. We want to highlight papers that are open and reproducible, and that think in un-conventional ways to publish. Dynamic papers with updated versions, is something we are interested in.
 
 ## How?
 
-As easy to fill in this issue \[Link TBA\] with the minimal information.
+As easy to fill in this [issue](https://github.com/PunkEditors/Anti-Journal/issues/new?assignees=ibartomeus&labels=&template=new-paper.md&title=Submit+a+paper+to+the+Anti-Journal) with the minimal information.
 
 ## Is there are peer review process?
 
